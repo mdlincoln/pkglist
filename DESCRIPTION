@@ -29,6 +29,7 @@ Imports:
   assertr,
   ggjoy,
   future,
-  doParallel
+  doParallel,
+  broom
 Encoding: UTF-8
 LazyData: true

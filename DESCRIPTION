@@ -30,6 +30,8 @@ Imports:
   ggjoy,
   future,
   doParallel,
-  broom
+  broom,
+  DT,
+  V8
 Encoding: UTF-8
 LazyData: true

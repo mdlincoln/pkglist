@@ -32,6 +32,8 @@ Imports:
   doParallel,
   broom,
   DT,
-  V8
+  V8,
+  remake,
+  clipr
 Encoding: UTF-8
 LazyData: true

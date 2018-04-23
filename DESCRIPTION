@@ -1,41 +1,53 @@
-Package: pkglist
 Type: Package
+Package: pkglist
 Title: Collection Of Packages I Use Regularly
 Version: 0.1.0
 Author: Matthew Lincoln
 Maintainer: Matthew Lincoln <matthew.d.lincoln@gmail.com>
 Description: This does what it says on the label.
 License: GPL-3 + file LICENSE
-Imports:
-  devtools,
-  testthat,
-  roxygen2,
-  tidyverse,
-  reprex,
-  shiny,
-  bookdown,
-  caret,
-  fuzzr,
-  statnet,
-  igraph,
-  ggraph,
-  ggrepel,
-  tidytext,
-  textreuse,
-  randomForest,
-  xgboost,
-  googlesheets,
-  httr,
-  assertr,
-  ggjoy,
-  future,
-  doParallel,
-  broom,
-  DT,
-  V8,
-  tufte,
-  formatR,
-  tikzDevice,
-  clipr
+Imports: 
+    assertr,
+    bookdown,
+    broom,
+    broomstick,
+    caret,
+    caret,
+    clipr,
+    devtools,
+    doParallel,
+    DT,
+    forestry,
+    formatR,
+    future,
+    fuzzr,
+    ggjoy,
+    ggraph,
+    ggrepel,
+    googlesheets,
+    httr,
+    igraph,
+    kwm,
+    randomForest,
+    remake,
+    reprex,
+    rhist,
+    roxygen2,
+    shiny,
+    statnet,
+    testthat,
+    textreuse,
+    tidytext,
+    tidyverse,
+    tikzDevice,
+    tufte,
+    V8,
+    xgboost
 Encoding: UTF-8
 LazyData: true
+Remotes: mdlincoln/forestry,
+    mdlincoln/kwm,
+    mdlincoln/numbers2words,
+    mdlincoln/remake,
+    mdlincoln/rhist,
+    njtierney/broomstick

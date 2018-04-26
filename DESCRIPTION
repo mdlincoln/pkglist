@@ -32,6 +32,7 @@ Imports:
     remake,
     reprex,
     rhist,
+    rematch2,
     roxygen2,
     shiny,
     statnet,
@@ -40,6 +41,7 @@ Imports:
     tidytext,
     tidyverse,
     tikzDevice,
+    tm,
     tufte,
     V8,
     xgboost
@@ -50,4 +52,5 @@ Remotes: mdlincoln/forestry,
     mdlincoln/numbers2words,
     mdlincoln/remake,
     mdlincoln/rhist,
-    njtierney/broomstick
+    njtierney/broomstick,
+    r-hub/rematch2

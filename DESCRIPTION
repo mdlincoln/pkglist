@@ -24,6 +24,7 @@ Imports:
     ggjoy,
     ggraph,
     ggrepel,
+    glmnet,
     googlesheets,
     httr,
     igraph,

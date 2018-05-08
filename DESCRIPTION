@@ -12,7 +12,6 @@ Imports:
     broom,
     broomstick,
     caret,
-    caret,
     clipr,
     devtools,
     doParallel,
@@ -44,6 +43,7 @@ Imports:
     tikzDevice,
     tm,
     tufte,
+    usethis,
     V8,
     xgboost
 Encoding: UTF-8
@@ -53,5 +53,6 @@ Remotes: mdlincoln/forestry,
     mdlincoln/numbers2words,
     mdlincoln/remake,
     mdlincoln/rhist,
+    mdlincoln/usethis@generic_use
     njtierney/broomstick,
     r-hub/rematch2

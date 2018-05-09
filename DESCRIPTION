@@ -30,9 +30,9 @@ Imports:
     kwm,
     randomForest,
     remake,
+    rematch2,
     reprex,
     rhist,
-    rematch2,
     roxygen2,
     shiny,
     statnet,
@@ -46,9 +46,8 @@ Imports:
     usethis,
     V8,
     xgboost
-Encoding: UTF-8
-LazyData: true
-Remotes: mdlincoln/forestry,
+Remotes: 
+    mdlincoln/forestry,
     mdlincoln/kwm,
     mdlincoln/numbers2words,
     mdlincoln/remake,
@@ -56,3 +55,5 @@ Remotes: mdlincoln/forestry,
     mdlincoln/usethis@generic_use
     njtierney/broomstick,
     r-hub/rematch2
+Encoding: UTF-8
+LazyData: true

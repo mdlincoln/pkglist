@@ -28,6 +28,7 @@ Imports:
     httr,
     igraph,
     kwm,
+    packrat,
     randomForest,
     remake,
     rematch2,
@@ -46,8 +47,9 @@ Imports:
     usethis,
     V8,
     xgboost
-Remotes: 
-    mdlincoln/forestry,
+Encoding: UTF-8
+LazyData: true
+Remotes: mdlincoln/forestry,
     mdlincoln/kwm,
     mdlincoln/numbers2words,
     mdlincoln/remake,
@@ -55,5 +57,3 @@ Remotes:
     mdlincoln/usethis@generic_use
     njtierney/broomstick,
     r-hub/rematch2
-Encoding: UTF-8
-LazyData: true

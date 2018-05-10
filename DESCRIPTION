@@ -8,6 +8,7 @@ Description: This does what it says on the label.
 License: GPL-3 + file LICENSE
 Imports: 
     assertr,
+    available,
     bookdown,
     broom,
     broomstick,

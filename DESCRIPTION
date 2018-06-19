@@ -6,7 +6,7 @@ Author: Matthew Lincoln
 Maintainer: Matthew Lincoln <matthew.d.lincoln@gmail.com>
 Description: This does what it says on the label.
 License: GPL-3 + file LICENSE
-Imports: 
+Imports:
     assertr,
     available,
     bookdown,
@@ -21,6 +21,7 @@ Imports:
     formatR,
     future,
     fuzzr,
+    gganimate,
     ggjoy,
     ggraph,
     ggrepel,
@@ -30,6 +31,7 @@ Imports:
     igraph,
     kwm,
     packrat,
+    patchwork,
     randomForest,
     remake,
     rematch2,
@@ -50,11 +52,14 @@ Imports:
     xgboost
 Encoding: UTF-8
 LazyData: true
-Remotes: mdlincoln/forestry,
+Remotes:
+    dgrtwo/gganimate,
+    mdlincoln/forestry,
     mdlincoln/kwm,
     mdlincoln/numbers2words,
     mdlincoln/remake,
     mdlincoln/rhist,
     mdlincoln/usethis@generic_use
     njtierney/broomstick,
-    r-hub/rematch2
+    r-hub/rematch2,
+    thomasp85/patchwork

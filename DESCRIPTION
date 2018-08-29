@@ -53,13 +53,12 @@ Imports:
 Encoding: UTF-8
 LazyData: true
 Remotes:
-    dgrtwo/gganimate,
+    thomasp85/gganimate,
+    njtierney/broomstick,
     mdlincoln/forestry,
     mdlincoln/kwm,
     mdlincoln/numbers2words,
     mdlincoln/remake,
     mdlincoln/rhist,
-    mdlincoln/usethis@generic_use
-    njtierney/broomstick,
     r-hub/rematch2,
     thomasp85/patchwork

@@ -47,14 +47,18 @@ Imports:
     tufte,
     usethis,
     V8,
-    xgboost
+    vegan,
+    xgboost,
+    bootr (>= 0.1.0),
+    purrrlyr
 Encoding: UTF-8
 LazyData: true
-Remotes:
+Remotes: 
     thomasp85/gganimate,
     mdlincoln/forestry,
     mdlincoln/kwm,
     mdlincoln/numbers2words,
     mdlincoln/remake,
     r-lib/rematch2,
-    thomasp85/patchwork
+    thomasp85/patchwork,
+    mdlincoln/bootr

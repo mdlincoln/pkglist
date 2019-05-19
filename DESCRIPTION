@@ -35,7 +35,6 @@ Imports:
     remake,
     rematch2,
     reprex,
-    rhist,
     roxygen2,
     shiny,
     statnet,

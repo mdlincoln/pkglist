@@ -15,6 +15,7 @@ Imports:
     clipr,
     devtools,
     doParallel,
+    drake,
     DT,
     forestry,
     formatR,
@@ -35,7 +36,6 @@ Imports:
     remake,
     rematch2,
     reprex,
-    rhist,
     roxygen2,
     shiny,
     statnet,
@@ -57,6 +57,5 @@ Remotes:
     mdlincoln/kwm,
     mdlincoln/numbers2words,
     mdlincoln/remake,
-    mdlincoln/rhist,
     r-lib/rematch2,
     thomasp85/patchwork

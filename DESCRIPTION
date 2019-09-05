@@ -35,6 +35,7 @@ Imports:
     igraph,
     kwm,
     mapview,
+    odbc,
     osmar,
     packrat,
     patchwork,
